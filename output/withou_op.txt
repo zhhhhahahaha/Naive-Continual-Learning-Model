@@ -1,0 +1,152 @@
+train begin
+In iteration 0/1000 , the loss is 3.942377397743885
+In iteration 100/1000 , the loss is 0.07805140474195783
+In iteration 200/1000 , the loss is 0.1149382414223915
+In iteration 300/1000 , the loss is 0.014146088699052962
+In iteration 400/1000 , the loss is 0.007159724613325648
+In iteration 500/1000 , the loss is 0.01407346996260734
+In iteration 600/1000 , the loss is 0.02104055989662525
+In iteration 700/1000 , the loss is 0.024133662186315186
+In iteration 800/1000 , the loss is 0.006231135446165271
+In iteration 900/1000 , the loss is 0.008950519490354632
+The Accuracy is 0.9979591836734694
+
+train begin
+In iteration 0/1000 , the loss is 2.687555006484723
+In iteration 100/1000 , the loss is 0.05016799448656398
+In iteration 200/1000 , the loss is 0.010292416182738585
+In iteration 300/1000 , the loss is 0.023073865232455637
+In iteration 400/1000 , the loss is 0.006460730350758406
+In iteration 500/1000 , the loss is 0.03701301920204312
+In iteration 600/1000 , the loss is 0.016706836551211905
+In iteration 700/1000 , the loss is 0.00578292593785084
+In iteration 800/1000 , the loss is 0.005726547996837172
+In iteration 900/1000 , the loss is 0.0006419992631046523
+The Accuracy is 0.9973568281938326
+
+train begin
+In iteration 0/1000 , the loss is 4.272155108215637
+In iteration 100/1000 , the loss is 0.14880976493864825
+In iteration 200/1000 , the loss is 0.20737267641317214
+In iteration 300/1000 , the loss is 0.1775828943770005
+In iteration 400/1000 , the loss is 0.11603464296667576
+In iteration 500/1000 , the loss is 0.09355360809240783
+In iteration 600/1000 , the loss is 0.08813630205281384
+In iteration 700/1000 , the loss is 0.13993397632238652
+In iteration 800/1000 , the loss is 0.1077853176723914
+In iteration 900/1000 , the loss is 0.10855540617774347
+The Accuracy is 0.9796511627906976
+
+train begin
+In iteration 0/1000 , the loss is 4.453124836796533
+In iteration 100/1000 , the loss is 0.3458099909638232
+In iteration 200/1000 , the loss is 0.225751022253307
+In iteration 300/1000 , the loss is 0.09564261484883291
+In iteration 400/1000 , the loss is 0.19914409493508994
+In iteration 500/1000 , the loss is 0.10806614525520222
+In iteration 600/1000 , the loss is 0.17819002321994776
+In iteration 700/1000 , the loss is 0.14767914285584316
+In iteration 800/1000 , the loss is 0.05476038689797938
+In iteration 900/1000 , the loss is 0.07114849069134457
+The Accuracy is 0.9881188118811881
+
+train begin
+In iteration 0/1000 , the loss is 2.966303465897352
+In iteration 100/1000 , the loss is 0.06247707559295858
+In iteration 200/1000 , the loss is 0.05197492591208427
+In iteration 300/1000 , the loss is 0.018700571190290016
+In iteration 400/1000 , the loss is 0.009595291222347717
+In iteration 500/1000 , the loss is 0.0048782872227781104
+In iteration 600/1000 , the loss is 0.017478233879558592
+In iteration 700/1000 , the loss is 0.024434128008127276
+In iteration 800/1000 , the loss is 0.04409711121357233
+In iteration 900/1000 , the loss is 0.0030669753049154926
+The Accuracy is 0.9989816700610998
+
+train begin
+In iteration 0/1000 , the loss is 5.262055142915824
+In iteration 100/1000 , the loss is 0.2815799631993242
+In iteration 200/1000 , the loss is 0.1156015086382192
+In iteration 300/1000 , the loss is 0.15145299565603731
+In iteration 400/1000 , the loss is 0.16337609432357134
+In iteration 500/1000 , the loss is 0.14209506659897955
+In iteration 600/1000 , the loss is 0.09254833438612096
+In iteration 700/1000 , the loss is 0.02186177222592123
+In iteration 800/1000 , the loss is 0.04834797283929971
+In iteration 900/1000 , the loss is 0.04203540198605032
+The Accuracy is 0.9831838565022422
+
+train begin
+In iteration 0/1000 , the loss is 5.251168184517285
+In iteration 100/1000 , the loss is 0.08062292305770916
+In iteration 200/1000 , the loss is 0.04878114847641036
+In iteration 300/1000 , the loss is 0.0251831188035442
+In iteration 400/1000 , the loss is 0.04570061658619438
+In iteration 500/1000 , the loss is 0.0278386825229213
+In iteration 600/1000 , the loss is 0.01147715073448994
+In iteration 700/1000 , the loss is 0.009051795761331501
+In iteration 800/1000 , the loss is 0.038575393289930156
+In iteration 900/1000 , the loss is 0.003440911721513383
+The Accuracy is 0.9937369519832986
+
+train begin
+In iteration 0/1000 , the loss is 4.448941603560791
+In iteration 100/1000 , the loss is 0.17455766974343032
+In iteration 200/1000 , the loss is 0.07288132890133
+In iteration 300/1000 , the loss is 0.0737882132786232
+In iteration 400/1000 , the loss is 0.06490827996353012
+In iteration 500/1000 , the loss is 0.07970758415441188
+In iteration 600/1000 , the loss is 0.02166667092969863
+In iteration 700/1000 , the loss is 0.00974583499433881
+In iteration 800/1000 , the loss is 0.03283844479908646
+In iteration 900/1000 , the loss is 0.0017753093052054385
+The Accuracy is 0.9873540856031129
+
+train begin
+In iteration 0/1000 , the loss is 4.092799860133227
+In iteration 100/1000 , the loss is 0.40269501642397193
+In iteration 200/1000 , the loss is 0.4513818615526916
+In iteration 300/1000 , the loss is 0.20911639746599436
+In iteration 400/1000 , the loss is 0.1608915066151687
+In iteration 500/1000 , the loss is 0.15168776222467367
+In iteration 600/1000 , the loss is 0.12099927894863384
+In iteration 700/1000 , the loss is 0.19297292600664231
+In iteration 800/1000 , the loss is 0.058736928028658986
+In iteration 900/1000 , the loss is 0.09455219693751488
+The Accuracy is 0.9661190965092402
+
+train begin
+In iteration 0/1000 , the loss is 4.532665274721285
+In iteration 100/1000 , the loss is 0.15037829626596197
+In iteration 200/1000 , the loss is 0.07618622166760107
+In iteration 300/1000 , the loss is 0.058628587616345415
+In iteration 400/1000 , the loss is 0.129143103114876
+In iteration 500/1000 , the loss is 0.04822430658804214
+In iteration 600/1000 , the loss is 0.025339397580755953
+In iteration 700/1000 , the loss is 0.05966258664454505
+In iteration 800/1000 , the loss is 0.10086222567416961
+In iteration 900/1000 , the loss is 0.08178148664488992
+The Accuracy is 0.9821605550049554
+
+The final Accuracy is 0.3629
+
+The Accuracy is 0.13877551020408163
+
+The Accuracy is 0.003524229074889868
+
+The Accuracy is 0.15891472868217055
+
+The Accuracy is 0.16435643564356436
+
+The Accuracy is 0.016293279022403257
+
+The Accuracy is 0.4327354260089686
+
+The Accuracy is 0.9248434237995825
+
+The Accuracy is 0.054474708171206226
+
+The Accuracy is 0.8459958932238193
+
+The Accuracy is 0.9821605550049554
+

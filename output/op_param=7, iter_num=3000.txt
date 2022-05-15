@@ -1,0 +1,352 @@
+train begin
+In iteration 0/3000 , the loss is 2.7565625101783033
+In iteration 100/3000 , the loss is 0.07193723152724707
+In iteration 200/3000 , the loss is 0.02938212092130684
+In iteration 300/3000 , the loss is 0.010737551205351002
+In iteration 400/3000 , the loss is 0.01350940941958717
+In iteration 500/3000 , the loss is 0.02880189501013763
+In iteration 600/3000 , the loss is 0.04546843011000661
+In iteration 700/3000 , the loss is 0.04101228075106227
+In iteration 800/3000 , the loss is 0.016635318961040188
+In iteration 900/3000 , the loss is 0.024328493437252453
+In iteration 1000/3000 , the loss is 0.012513458397127156
+In iteration 1100/3000 , the loss is 0.008913263794311994
+In iteration 1200/3000 , the loss is 0.005046778228922119
+In iteration 1300/3000 , the loss is 0.042058931444445065
+In iteration 1400/3000 , the loss is 0.0030107136396443756
+In iteration 1500/3000 , the loss is 0.00799602351697401
+In iteration 1600/3000 , the loss is 0.0066317587167443
+In iteration 1700/3000 , the loss is 0.003792344928281613
+In iteration 1800/3000 , the loss is 0.0028723014510887387
+In iteration 1900/3000 , the loss is 0.005339474845337032
+In iteration 2000/3000 , the loss is 0.00570383354036785
+In iteration 2100/3000 , the loss is 0.041060424072903244
+In iteration 2200/3000 , the loss is 0.004622400173312836
+In iteration 2300/3000 , the loss is 0.0008631611216294609
+In iteration 2400/3000 , the loss is 0.002058701410377521
+In iteration 2500/3000 , the loss is 0.01302087494709891
+In iteration 2600/3000 , the loss is 0.006947075921067094
+In iteration 2700/3000 , the loss is 0.0031003960774263536
+In iteration 2800/3000 , the loss is 0.005908886573424547
+In iteration 2900/3000 , the loss is 0.001668224525023881
+The Accuracy is 0.9979591836734694
+
+train begin
+In iteration 0/3000 , the loss is 2.989458332995371
+In iteration 100/3000 , the loss is 0.029242601894990377
+In iteration 200/3000 , the loss is 0.030791713581138594
+In iteration 300/3000 , the loss is 0.007713013082041073
+In iteration 400/3000 , the loss is 0.01761984757982405
+In iteration 500/3000 , the loss is 0.025390593839041978
+In iteration 600/3000 , the loss is 0.02715647365176629
+In iteration 700/3000 , the loss is 0.01896111490498739
+In iteration 800/3000 , the loss is 0.026470960131927717
+In iteration 900/3000 , the loss is 0.018247624689908634
+In iteration 1000/3000 , the loss is 0.009617689000384108
+In iteration 1100/3000 , the loss is 0.03373151013237
+In iteration 1200/3000 , the loss is 0.017508452864546255
+In iteration 1300/3000 , the loss is 0.05987780569350732
+In iteration 1400/3000 , the loss is 0.0022711727602712957
+In iteration 1500/3000 , the loss is 0.002425215564193285
+In iteration 1600/3000 , the loss is 0.036646144246975196
+In iteration 1700/3000 , the loss is 0.004097928889016282
+In iteration 1800/3000 , the loss is 0.0014020538012173658
+In iteration 1900/3000 , the loss is 0.0012818275605349626
+In iteration 2000/3000 , the loss is 0.0009689364051249783
+In iteration 2100/3000 , the loss is 0.0011056601492860714
+In iteration 2200/3000 , the loss is 0.0015656268077340572
+In iteration 2300/3000 , the loss is 0.0025749108787650556
+In iteration 2400/3000 , the loss is 0.00274495742702432
+In iteration 2500/3000 , the loss is 0.0008581073658352828
+In iteration 2600/3000 , the loss is 0.0011382639813693064
+In iteration 2700/3000 , the loss is 0.0029042253487512803
+In iteration 2800/3000 , the loss is 0.009466115107103096
+In iteration 2900/3000 , the loss is 0.001293522450316794
+The Accuracy is 1.0
+
+train begin
+In iteration 0/3000 , the loss is 6.111257867347848
+In iteration 100/3000 , the loss is 0.37446851200930165
+In iteration 200/3000 , the loss is 0.2539441012467899
+In iteration 300/3000 , the loss is 0.23819577944422937
+In iteration 400/3000 , the loss is 0.26595332839177455
+In iteration 500/3000 , the loss is 0.25255204070283166
+In iteration 600/3000 , the loss is 0.2445882369727876
+In iteration 700/3000 , the loss is 0.17828349909371463
+In iteration 800/3000 , the loss is 0.31236029898656287
+In iteration 900/3000 , the loss is 0.08856852858102927
+In iteration 1000/3000 , the loss is 0.12639387692475837
+In iteration 1100/3000 , the loss is 0.30451173477593474
+In iteration 1200/3000 , the loss is 0.2476230932796461
+In iteration 1300/3000 , the loss is 0.06683159174150018
+In iteration 1400/3000 , the loss is 0.08644467083900832
+In iteration 1500/3000 , the loss is 0.1020754714605184
+In iteration 1600/3000 , the loss is 0.20290087764348963
+In iteration 1700/3000 , the loss is 0.1302343012236409
+In iteration 1800/3000 , the loss is 0.06425989907921234
+In iteration 1900/3000 , the loss is 0.21323919590958093
+In iteration 2000/3000 , the loss is 0.22327389269496267
+In iteration 2100/3000 , the loss is 0.07928014154643147
+In iteration 2200/3000 , the loss is 0.08658277457080045
+In iteration 2300/3000 , the loss is 0.11773187411040091
+In iteration 2400/3000 , the loss is 0.09433886916681927
+In iteration 2500/3000 , the loss is 0.12299177916442113
+In iteration 2600/3000 , the loss is 0.1287989745388989
+In iteration 2700/3000 , the loss is 0.039235274918844563
+In iteration 2800/3000 , the loss is 0.09704409478213366
+In iteration 2900/3000 , the loss is 0.20999754316200928
+The Accuracy is 0.9612403100775194
+
+train begin
+In iteration 0/3000 , the loss is 4.467400397905687
+In iteration 100/3000 , the loss is 0.7728117188530442
+In iteration 200/3000 , the loss is 0.5800964144238635
+In iteration 300/3000 , the loss is 0.4971153340372773
+In iteration 400/3000 , the loss is 0.13485960895618096
+In iteration 500/3000 , the loss is 0.5987149743001917
+In iteration 600/3000 , the loss is 0.22543761029193704
+In iteration 700/3000 , the loss is 0.4581329682211888
+In iteration 800/3000 , the loss is 0.1546536852711559
+In iteration 900/3000 , the loss is 0.3714935082225611
+In iteration 1000/3000 , the loss is 0.2726124624728807
+In iteration 1100/3000 , the loss is 0.24337599311505687
+In iteration 1200/3000 , the loss is 0.2950631353945284
+In iteration 1300/3000 , the loss is 0.16773471744009083
+In iteration 1400/3000 , the loss is 0.6271588049204129
+In iteration 1500/3000 , the loss is 0.1985122072281744
+In iteration 1600/3000 , the loss is 0.04534630899361474
+In iteration 1700/3000 , the loss is 0.28225904317857703
+In iteration 1800/3000 , the loss is 0.32916121384374514
+In iteration 1900/3000 , the loss is 0.20506487730195377
+In iteration 2000/3000 , the loss is 0.14883694772021727
+In iteration 2100/3000 , the loss is 0.172178624403312
+In iteration 2200/3000 , the loss is 0.20218907043433185
+In iteration 2300/3000 , the loss is 0.13531787714980528
+In iteration 2400/3000 , the loss is 0.29380530574647545
+In iteration 2500/3000 , the loss is 0.25384754216431105
+In iteration 2600/3000 , the loss is 0.31646733618473244
+In iteration 2700/3000 , the loss is 0.23875006640842736
+In iteration 2800/3000 , the loss is 0.2818568728685042
+In iteration 2900/3000 , the loss is 0.06926495052467378
+The Accuracy is 0.9772277227722772
+
+train begin
+In iteration 0/3000 , the loss is 4.748274344525498
+In iteration 100/3000 , the loss is 0.6126542427900455
+In iteration 200/3000 , the loss is 0.6036413833889368
+In iteration 300/3000 , the loss is 0.3284505300549195
+In iteration 400/3000 , the loss is 0.3101196472773253
+In iteration 500/3000 , the loss is 0.2637667441195332
+In iteration 600/3000 , the loss is 0.12641172289603128
+In iteration 700/3000 , the loss is 0.168323300886613
+In iteration 800/3000 , the loss is 0.3490625330956687
+In iteration 900/3000 , the loss is 0.13411447344874028
+In iteration 1000/3000 , the loss is 0.16753100207531413
+In iteration 1100/3000 , the loss is 0.07492312637407514
+In iteration 1200/3000 , the loss is 0.25580908002233316
+In iteration 1300/3000 , the loss is 0.16825212426643477
+In iteration 1400/3000 , the loss is 0.1002307791129368
+In iteration 1500/3000 , the loss is 0.11267619775588421
+In iteration 1600/3000 , the loss is 0.05752481695715438
+In iteration 1700/3000 , the loss is 0.030935902693727875
+In iteration 1800/3000 , the loss is 0.15092421298870048
+In iteration 1900/3000 , the loss is 0.11203630002247113
+In iteration 2000/3000 , the loss is 0.04419345495027576
+In iteration 2100/3000 , the loss is 0.1485793582109531
+In iteration 2200/3000 , the loss is 0.16793468157166283
+In iteration 2300/3000 , the loss is 0.08806907294604853
+In iteration 2400/3000 , the loss is 0.03517598696104949
+In iteration 2500/3000 , the loss is 0.11586526311870236
+In iteration 2600/3000 , the loss is 0.15764536663240697
+In iteration 2700/3000 , the loss is 0.030317071820186996
+In iteration 2800/3000 , the loss is 0.02313869323393637
+In iteration 2900/3000 , the loss is 0.009120925777754745
+The Accuracy is 0.9857433808553971
+
+train begin
+In iteration 0/3000 , the loss is 8.413415442116015
+In iteration 100/3000 , the loss is 3.289933768128248
+In iteration 200/3000 , the loss is 1.3248722251169565
+In iteration 300/3000 , the loss is 1.4254522333217245
+In iteration 400/3000 , the loss is 1.2247641761976955
+In iteration 500/3000 , the loss is 1.3304299883105053
+In iteration 600/3000 , the loss is 0.6693639507554
+In iteration 700/3000 , the loss is 0.9445990580695504
+In iteration 800/3000 , the loss is 0.7014775790209054
+In iteration 900/3000 , the loss is 0.9542136394186823
+In iteration 1000/3000 , the loss is 0.8502400082760997
+In iteration 1100/3000 , the loss is 0.5094567559658866
+In iteration 1200/3000 , the loss is 0.6011304825305361
+In iteration 1300/3000 , the loss is 0.9262991908372793
+In iteration 1400/3000 , the loss is 0.6402567458132719
+In iteration 1500/3000 , the loss is 0.6322163223360944
+In iteration 1600/3000 , the loss is 0.49545424344150113
+In iteration 1700/3000 , the loss is 0.5251539752269814
+In iteration 1800/3000 , the loss is 0.775142956528682
+In iteration 1900/3000 , the loss is 0.8120159537081932
+In iteration 2000/3000 , the loss is 0.6342550411880007
+In iteration 2100/3000 , the loss is 0.4975509655962636
+In iteration 2200/3000 , the loss is 0.6750006430332025
+In iteration 2300/3000 , the loss is 0.42176708107628125
+In iteration 2400/3000 , the loss is 0.7423310134766254
+In iteration 2500/3000 , the loss is 0.25237339154782157
+In iteration 2600/3000 , the loss is 0.2873683163294395
+In iteration 2700/3000 , the loss is 0.5408190825367923
+In iteration 2800/3000 , the loss is 0.6852809943369853
+In iteration 2900/3000 , the loss is 0.6460477202717317
+The Accuracy is 0.9125560538116592
+
+train begin
+In iteration 0/3000 , the loss is 9.892714845324921
+In iteration 100/3000 , the loss is 0.9278516847966561
+In iteration 200/3000 , the loss is 0.27870801878659396
+In iteration 300/3000 , the loss is 0.3816430171503542
+In iteration 400/3000 , the loss is 0.6060965867598875
+In iteration 500/3000 , the loss is 0.1977525979973702
+In iteration 600/3000 , the loss is 0.30813787999453307
+In iteration 700/3000 , the loss is 0.18154888646031178
+In iteration 800/3000 , the loss is 0.23260206458382882
+In iteration 900/3000 , the loss is 0.18064188302611348
+In iteration 1000/3000 , the loss is 0.20171050641361596
+In iteration 1100/3000 , the loss is 0.08247634838508537
+In iteration 1200/3000 , the loss is 0.01809581463081982
+In iteration 1300/3000 , the loss is 0.06515965066137698
+In iteration 1400/3000 , the loss is 0.2187713497376978
+In iteration 1500/3000 , the loss is 0.6296343813663402
+In iteration 1600/3000 , the loss is 0.22313925133011558
+In iteration 1700/3000 , the loss is 0.07470851494347862
+In iteration 1800/3000 , the loss is 0.12286463967094381
+In iteration 1900/3000 , the loss is 0.06625045913602534
+In iteration 2000/3000 , the loss is 0.2587682487265052
+In iteration 2100/3000 , the loss is 0.09916364987363512
+In iteration 2200/3000 , the loss is 0.12406787663514311
+In iteration 2300/3000 , the loss is 0.3508043469207459
+In iteration 2400/3000 , the loss is 0.13187545949145632
+In iteration 2500/3000 , the loss is 0.3294934872266177
+In iteration 2600/3000 , the loss is 0.19499570002906058
+In iteration 2700/3000 , the loss is 0.10266941262894007
+In iteration 2800/3000 , the loss is 0.09365414182867417
+In iteration 2900/3000 , the loss is 0.42501275591533877
+The Accuracy is 0.9749478079331941
+
+train begin
+In iteration 0/3000 , the loss is 10.326876620997131
+In iteration 100/3000 , the loss is 2.533330798311341
+In iteration 200/3000 , the loss is 1.5957709220689977
+In iteration 300/3000 , the loss is 1.236764822324602
+In iteration 400/3000 , the loss is 1.2250818665127339
+In iteration 500/3000 , the loss is 0.7878558092940668
+In iteration 600/3000 , the loss is 1.1405611045083972
+In iteration 700/3000 , the loss is 1.1770867286185511
+In iteration 800/3000 , the loss is 0.39188821984800715
+In iteration 900/3000 , the loss is 0.7630860916035517
+In iteration 1000/3000 , the loss is 0.8085115143354361
+In iteration 1100/3000 , the loss is 1.1583979041436387
+In iteration 1200/3000 , the loss is 0.6946969675499568
+In iteration 1300/3000 , the loss is 0.5038023024015081
+In iteration 1400/3000 , the loss is 0.6125569155270897
+In iteration 1500/3000 , the loss is 0.45911262264903324
+In iteration 1600/3000 , the loss is 0.3884120604142798
+In iteration 1700/3000 , the loss is 0.5647594941856704
+In iteration 1800/3000 , the loss is 0.3799284440054577
+In iteration 1900/3000 , the loss is 0.29127385697809033
+In iteration 2000/3000 , the loss is 0.5645088720514086
+In iteration 2100/3000 , the loss is 0.4379215807261952
+In iteration 2200/3000 , the loss is 0.4188006090312079
+In iteration 2300/3000 , the loss is 0.7559087425186244
+In iteration 2400/3000 , the loss is 0.5706929321741264
+In iteration 2500/3000 , the loss is 0.3293050676225269
+In iteration 2600/3000 , the loss is 0.20613644903499584
+In iteration 2700/3000 , the loss is 0.31420503158755303
+In iteration 2800/3000 , the loss is 0.25273020340296903
+In iteration 2900/3000 , the loss is 0.48692073165588046
+The Accuracy is 0.9299610894941635
+
+train begin
+In iteration 0/3000 , the loss is 11.924923646196431
+In iteration 100/3000 , the loss is 8.316344249185523
+In iteration 200/3000 , the loss is 6.467721327239032
+In iteration 300/3000 , the loss is 5.528277385026912
+In iteration 400/3000 , the loss is 3.6108649894897575
+In iteration 500/3000 , the loss is 3.3776252590130302
+In iteration 600/3000 , the loss is 4.109148362641511
+In iteration 700/3000 , the loss is 3.3694186901033922
+In iteration 800/3000 , the loss is 3.5429574751305033
+In iteration 900/3000 , the loss is 4.258787233064033
+In iteration 1000/3000 , the loss is 2.921161604484874
+In iteration 1100/3000 , the loss is 2.492217642373713
+In iteration 1200/3000 , the loss is 2.6258498944259556
+In iteration 1300/3000 , the loss is 2.9096538743864766
+In iteration 1400/3000 , the loss is 2.9369833326566255
+In iteration 1500/3000 , the loss is 2.085357583386258
+In iteration 1600/3000 , the loss is 1.9889229113843079
+In iteration 1700/3000 , the loss is 2.126443548419896
+In iteration 1800/3000 , the loss is 2.0696804980216257
+In iteration 1900/3000 , the loss is 2.0417687819686767
+In iteration 2000/3000 , the loss is 1.4147072758247277
+In iteration 2100/3000 , the loss is 2.5491586398027732
+In iteration 2200/3000 , the loss is 2.2672598854714905
+In iteration 2300/3000 , the loss is 1.9223318454458833
+In iteration 2400/3000 , the loss is 2.288442901327804
+In iteration 2500/3000 , the loss is 1.1856445303793688
+In iteration 2600/3000 , the loss is 1.7008255312210057
+In iteration 2700/3000 , the loss is 1.5472132916808903
+In iteration 2800/3000 , the loss is 1.331006609474367
+In iteration 2900/3000 , the loss is 1.8478986127689323
+The Accuracy is 0.768993839835729
+
+train begin
+In iteration 0/3000 , the loss is 9.44440905926955
+In iteration 100/3000 , the loss is 8.375076859623949
+In iteration 200/3000 , the loss is 6.034800286238479
+In iteration 300/3000 , the loss is 5.367630724341422
+In iteration 400/3000 , the loss is 4.5932940928359525
+In iteration 500/3000 , the loss is 3.265153004914197
+In iteration 600/3000 , the loss is 3.130325084844075
+In iteration 700/3000 , the loss is 3.332479634462514
+In iteration 800/3000 , the loss is 3.5760468259026927
+In iteration 900/3000 , the loss is 3.6290323600608114
+In iteration 1000/3000 , the loss is 2.595805265518321
+In iteration 1100/3000 , the loss is 2.1612263804633685
+In iteration 1200/3000 , the loss is 1.9388976087537595
+In iteration 1300/3000 , the loss is 2.4935991160962407
+In iteration 1400/3000 , the loss is 2.3298357943903247
+In iteration 1500/3000 , the loss is 1.706630156513936
+In iteration 1600/3000 , the loss is 2.344006621383663
+In iteration 1700/3000 , the loss is 2.113316935734183
+In iteration 1800/3000 , the loss is 1.897115845481272
+In iteration 1900/3000 , the loss is 1.2064244374546227
+In iteration 2000/3000 , the loss is 2.1850122190082337
+In iteration 2100/3000 , the loss is 1.9211738833302503
+In iteration 2200/3000 , the loss is 1.7369428091058918
+In iteration 2300/3000 , the loss is 2.1046465161278043
+In iteration 2400/3000 , the loss is 1.5918942817950763
+In iteration 2500/3000 , the loss is 1.3167818024793287
+In iteration 2600/3000 , the loss is 1.1992240917655355
+In iteration 2700/3000 , the loss is 1.4624613437395184
+In iteration 2800/3000 , the loss is 1.6006507899798184
+In iteration 2900/3000 , the loss is 1.1104245746510857
+The Accuracy is 0.7304261645193261
+
+The final Accuracy is 0.7403
+
+The Accuracy is 0.6183673469387755
+
+The Accuracy is 0.8167400881057268
+
+The Accuracy is 0.6414728682170543
+
+The Accuracy is 0.7277227722772277
+
+The Accuracy is 0.7668024439918534
+
+The Accuracy is 0.6401345291479821
+
+The Accuracy is 0.8977035490605428
+
+The Accuracy is 0.8560311284046692
+
+The Accuracy is 0.6899383983572895
+
+The Accuracy is 0.7304261645193261
+
